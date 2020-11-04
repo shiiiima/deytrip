@@ -1,0 +1,68 @@
+.tripsStyle{
+    height: 400px;
+    padding: 0px !important;
+    position: relative;
+    img{
+        width: 100%;
+    }
+    
+    h3{
+        position: absolute;
+        background-color:rgba(255,255,255,0.5);
+      
+        bottom: 0px;
+        border-radius:0px 10px 0px 10px ;
+        bottom: 0px;
+        margin-bottom: 0px;
+        left: 0;
+        
+    
+    
+    }
+    h5{
+        position: absolute;
+        
+      
+        bottom: 0px;
+        border-radius:10px 0px 10px 0px ;
+        bottom: 0px;
+        margin-bottom: 0px;
+        right: 0;
+
+    }
+    
+}
+.explorePersia {
+    height: 400px;
+    padding: 0px !important;
+    position: relative;
+    
+    align-content: center;
+    img{
+        width: 100%;
+    }
+    h1{
+        position: absolute;
+        font-size: 60px;
+        width: 300px;
+        color: white;
+        left: 0;
+    
+        
+    }
+
+
+}
+
+.contactUs{
+    img{
+        width: 100px;
+        height: 100px;
+        margin-right: -15px;
+        filter: grayscale(100%);
+        
+    }
+    button{
+        width: 200px;
+    }
+}

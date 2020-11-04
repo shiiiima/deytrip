@@ -1,0 +1,33 @@
+.card{
+    width: 240px;
+
+    border-radius:10px 10px 10px 10px ;
+    box-shadow: 10px;
+    padding: 0!important;
+    
+    .card-header{
+        border-radius:10px 10px 0px 0px ;
+
+       
+  
+    }
+    .card-body{
+      padding: 0px!important;
+        border-radius:0px 0px 10px 10px ;
+       
+        .card-img{
+            border-radius:0px 0px 10px 10px  ;
+            width:238px;
+         
+            left: 0px;
+
+        }
+        
+    
+    }
+}
+#more1 {display: none;}
+#more2 {display: none;}
+#more3 {display: none;}
+#more4 {display: none;}
+#more5 {display: none;}
